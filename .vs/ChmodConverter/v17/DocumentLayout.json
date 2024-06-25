@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E38A88F-5A5F-4457-9578-06E4A0C35081}|ChmodConverterApp\\ChmodConverterApp.csproj|c:\\users\\marci\\desktop\\projekty studia\\chmodconverter\\chmodconverterapp\\converterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E38A88F-5A5F-4457-9578-06E4A0C35081}|ChmodConverterApp\\ChmodConverterApp.csproj|solutionrelative:chmodconverterapp\\converterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E38A88F-5A5F-4457-9578-06E4A0C35081}|ChmodConverterApp\\ChmodConverterApp.csproj|c:\\users\\marci\\desktop\\projekty studia\\chmodconverter\\chmodconverterapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9E38A88F-5A5F-4457-9578-06E4A0C35081}|ChmodConverterApp\\ChmodConverterApp.csproj|solutionrelative:chmodconverterapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ConverterClass.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ChmodConverterApp\\ConverterClass.cs",
+              "RelativeDocumentMoniker": "ChmodConverterApp\\ConverterClass.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ChmodConverterApp\\ConverterClass.cs",
+              "RelativeToolTip": "ChmodConverterApp\\ConverterClass.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:41:13.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ChmodConverterApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ChmodConverterApp\\MainWindow.xaml",
@@ -38,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ChmodConverterApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ChmodConverterApp\\MainWindow.xaml.cs",
@@ -46,8 +63,7 @@
               "RelativeToolTip": "ChmodConverterApp\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T11:33:57.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T11:33:57.739Z"
             }
           ]
         }

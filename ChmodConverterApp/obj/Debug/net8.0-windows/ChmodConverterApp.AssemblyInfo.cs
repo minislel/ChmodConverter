@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChmodConverterApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82d86f10a5c7870e4c00c078f14915fbc4c34c1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChmodConverterApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChmodConverterApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
