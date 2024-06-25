@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E38A88F-5A5F-4457-9578-06E4A0C35081}|ChmodConverterApp\\ChmodConverterApp.csproj|c:\\users\\marci\\desktop\\projekty studia\\chmodconverter\\chmodconverterapp\\converterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E38A88F-5A5F-4457-9578-06E4A0C35081}|ChmodConverterApp\\ChmodConverterApp.csproj|solutionrelative:chmodconverterapp\\converterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E38A88F-5A5F-4457-9578-06E4A0C35081}|ChmodConverterApp\\ChmodConverterApp.csproj|c:\\users\\marci\\desktop\\projekty studia\\chmodconverter\\chmodconverterapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9E38A88F-5A5F-4457-9578-06E4A0C35081}|ChmodConverterApp\\ChmodConverterApp.csproj|solutionrelative:chmodconverterapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2C1A8E17-E2D6-474E-B6DB-52909C9C7F4B}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\marci\\desktop\\projekty studia\\chmodconverter\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1A8E17-E2D6-474E-B6DB-52909C9C7F4B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E38A88F-5A5F-4457-9578-06E4A0C35081}|ChmodConverterApp\\ChmodConverterApp.csproj|c:\\users\\marci\\desktop\\projekty studia\\chmodconverter\\chmodconverterapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E38A88F-5A5F-4457-9578-06E4A0C35081}|ChmodConverterApp\\ChmodConverterApp.csproj|solutionrelative:chmodconverterapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B3837D-8083-4E87-9BCD-980E0DF183E2}|ChmodConverterLib\\ChmodConverterLib.csproj|c:\\users\\marci\\desktop\\projekty studia\\chmodconverter\\chmodconverterlib\\converterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B3837D-8083-4E87-9BCD-980E0DF183E2}|ChmodConverterLib\\ChmodConverterLib.csproj|solutionrelative:chmodconverterlib\\converterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E38A88F-5A5F-4457-9578-06E4A0C35081}|ChmodConverterApp\\ChmodConverterApp.csproj|c:\\users\\marci\\desktop\\projekty studia\\chmodconverter\\chmodconverterapp\\chmodconverterapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E38A88F-5A5F-4457-9578-06E4A0C35081}|ChmodConverterApp\\ChmodConverterApp.csproj|solutionrelative:chmodconverterapp\\chmodconverterapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1A8E17-E2D6-474E-B6DB-52909C9C7F4B}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\marci\\desktop\\projekty studia\\chmodconverter\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C1A8E17-E2D6-474E-B6DB-52909C9C7F4B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 306,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +42,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ConverterClass.cs",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ChmodConverterApp\\ConverterClass.cs",
-              "RelativeDocumentMoniker": "ChmodConverterApp\\ConverterClass.cs",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ChmodConverterApp\\ConverterClass.cs",
-              "RelativeToolTip": "ChmodConverterApp\\ConverterClass.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBEAAAAIAAAA",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ChmodConverterLib\\ConverterClass.cs",
+              "RelativeDocumentMoniker": "ChmodConverterLib\\ConverterClass.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ChmodConverterLib\\ConverterClass.cs",
+              "RelativeToolTip": "ChmodConverterLib\\ConverterClass.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T11:41:13.149Z",
+              "WhenOpened": "2024-06-25T16:22:08.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChmodConverterApp",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ChmodConverterApp\\ChmodConverterApp.csproj",
+              "RelativeDocumentMoniker": "ChmodConverterApp\\ChmodConverterApp.csproj",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ChmodConverterApp\\ChmodConverterApp.csproj",
+              "RelativeToolTip": "ChmodConverterApp\\ChmodConverterApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T16:21:27.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T16:02:58.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:01:38.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ChmodConverterApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ChmodConverterApp\\MainWindow.xaml",
@@ -61,9 +112,10 @@
               "RelativeDocumentMoniker": "ChmodConverterApp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\ChmodConverter\\ChmodConverterApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "ChmodConverterApp\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAYwDoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T11:33:57.739Z"
+              "WhenOpened": "2024-06-25T11:33:57.739Z",
+              "EditorCaption": ""
             }
           ]
         }

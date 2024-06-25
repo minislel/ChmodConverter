@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ChmodConverterApp/1.0.0": {
+        "dependencies": {
+          "ChmodConverterLib": "1.0.0"
+        },
+        "runtime": {
+          "ChmodConverterApp.dll": {}
+        }
+      },
+      "ChmodConverterLib/1.0.0": {
+        "runtime": {
+          "ChmodConverterLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChmodConverterApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChmodConverterLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

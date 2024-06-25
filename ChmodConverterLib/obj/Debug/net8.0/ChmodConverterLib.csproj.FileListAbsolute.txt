@@ -1,0 +1,12 @@
+C:\Users\marci\Desktop\projekty studia\ChmodConverter\ChmodConverterLib\bin\Debug\net8.0\ChmodConverterLib.deps.json
+C:\Users\marci\Desktop\projekty studia\ChmodConverter\ChmodConverterLib\bin\Debug\net8.0\ChmodConverterLib.dll
+C:\Users\marci\Desktop\projekty studia\ChmodConverter\ChmodConverterLib\bin\Debug\net8.0\ChmodConverterLib.pdb
+C:\Users\marci\Desktop\projekty studia\ChmodConverter\ChmodConverterLib\obj\Debug\net8.0\ChmodConverterLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\Desktop\projekty studia\ChmodConverter\ChmodConverterLib\obj\Debug\net8.0\ChmodConverterLib.AssemblyInfoInputs.cache
+C:\Users\marci\Desktop\projekty studia\ChmodConverter\ChmodConverterLib\obj\Debug\net8.0\ChmodConverterLib.AssemblyInfo.cs
+C:\Users\marci\Desktop\projekty studia\ChmodConverter\ChmodConverterLib\obj\Debug\net8.0\ChmodConverterLib.csproj.CoreCompileInputs.cache
+C:\Users\marci\Desktop\projekty studia\ChmodConverter\ChmodConverterLib\obj\Debug\net8.0\ChmodConverterLib.sourcelink.json
+C:\Users\marci\Desktop\projekty studia\ChmodConverter\ChmodConverterLib\obj\Debug\net8.0\ChmodConverterLib.dll
+C:\Users\marci\Desktop\projekty studia\ChmodConverter\ChmodConverterLib\obj\Debug\net8.0\refint\ChmodConverterLib.dll
+C:\Users\marci\Desktop\projekty studia\ChmodConverter\ChmodConverterLib\obj\Debug\net8.0\ChmodConverterLib.pdb
+C:\Users\marci\Desktop\projekty studia\ChmodConverter\ChmodConverterLib\obj\Debug\net8.0\ref\ChmodConverterLib.dll
