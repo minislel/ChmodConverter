@@ -10,12 +10,21 @@
         <TextBox x:Name="permissionNumeric" MaxLength="3" HorizontalAlignment="Left" Height="22" Margin="39,50,0,0" TextWrapping="Wrap" Text="777" PreviewTextInput="NumberValidationTextBox" VerticalAlignment="Top" Width="103" TextChanged="permissionNumeric_TextChanged"/>
         <TextBox x:Name="permissionSymbolic" MaxLength="10" HorizontalAlignment="Left" Height="22" Margin="235,50,0,0" TextWrapping="Wrap" Text="-rwxrwxrwx" PreviewTextInput="SymbolicValidationTextBox" VerticalAlignment="Top" Width="120" TextChanged="permissionSymbolic_TextChanged"/>
         <Rectangle HorizontalAlignment="Left" Height="198" Margin="39,0,0,0" Stroke="Black" VerticalAlignment="Center" Width="316"/>
-        <Label Content="Label" HorizontalAlignment="Left" Height="27" Margin="39,116,0,0" VerticalAlignment="Top" Width="67"/>
-        <Label Content="Label" HorizontalAlignment="Left" Height="27" Margin="39,174,0,0" VerticalAlignment="Top" Width="45"/>
-        <Label Content="Label" HorizontalAlignment="Left" Height="27" Margin="39,241,0,0" VerticalAlignment="Top" Width="51"/>
-        <Label Content="Label" HorizontalAlignment="Left" Height="23" Margin="97,93,0,0" VerticalAlignment="Top" Width="45"/>
-        <Label Content="Label" HorizontalAlignment="Left" Height="23" Margin="180,93,0,0" VerticalAlignment="Top" Width="47"/>
-        <Label Content="Label" HorizontalAlignment="Left" Height="23" Margin="263,93,0,0" VerticalAlignment="Top" Width="54"/>
+        <Label Content="Owner" HorizontalAlignment="Left" Height="27" Margin="39,132,0,0" VerticalAlignment="Top" Width="67"/>
+        <Label Content="Group" HorizontalAlignment="Left" Height="27" Margin="39,185,0,0" VerticalAlignment="Top" Width="45"/>
+        <Label Content="Others" HorizontalAlignment="Left" Height="27" Margin="39,243,0,0" VerticalAlignment="Top" Width="51"/>
+        <Label Content="Read" HorizontalAlignment="Left" Height="23" Margin="108,93,0,0" VerticalAlignment="Top" Width="45"/>
+        <Label Content="Write" HorizontalAlignment="Left" Height="23" Margin="185,93,0,0" VerticalAlignment="Top" Width="47"/>
+        <Label Content="Execute" HorizontalAlignment="Left" Height="23" Margin="273,93,0,0" VerticalAlignment="Top" Width="54"/>
+        <CheckBox x:Name="ChbOwnerR" Checked="ChbChange" HorizontalAlignment="Left" Height="21" Margin="121,138,0,0" VerticalAlignment="Top" Width="19"/>
+        <CheckBox x:Name="ChbOwnerW" Checked="ChbChange" HorizontalAlignment="Left" Height="21" Margin="197,138,0,0" VerticalAlignment="Top" Width="17"/>
+        <CheckBox x:Name="ChbOwnerX" Checked="ChbChange" HorizontalAlignment="Left" Height="21" Margin="290,138,0,0" VerticalAlignment="Top" Width="20"/>
+        <CheckBox x:Name="ChbGroupR" Checked="ChbChange" HorizontalAlignment="Left" Height="21" Margin="121,188,0,0" VerticalAlignment="Top" Width="19"/>
+        <CheckBox x:Name="ChbGroupW" Checked="ChbChange" HorizontalAlignment="Left" Height="21" Margin="196,188,0,0" VerticalAlignment="Top" Width="19"/>
+        <CheckBox x:Name="ChbGroupX" Checked="ChbChange" HorizontalAlignment="Left" Height="21" Margin="290,187,0,0" VerticalAlignment="Top" Width="20"/>
+        <CheckBox x:Name="ChbOthersR" Checked="ChbChange" HorizontalAlignment="Left" Height="21" Margin="121,249,0,0" VerticalAlignment="Top" Width="19"/>
+        <CheckBox x:Name="ChbOthersW" Checked="ChbChange" HorizontalAlignment="Left" Height="21" Margin="196,248,0,0" VerticalAlignment="Top" Width="19"/>
+        <CheckBox x:Name="ChbOthersX" Checked="ChbChange" HorizontalAlignment="Left" Height="21" Margin="290,248,0,0" VerticalAlignment="Top" Width="19"/>
 
 
     </Grid>

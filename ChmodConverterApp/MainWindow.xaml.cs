@@ -59,6 +59,9 @@ namespace ChmodConverterApp
             }
         }
 
+        private void ChbChange(object sender, RoutedEventArgs e)
+        {
 
+        }
     }
 }
